@@ -1,12 +1,11 @@
 <div align="center">
+<img src="https://wsrv.nl/?url=raw.githubusercontent.com/abdullahshah4650-debug/abdullahshah4650-debug/main/My_Profile.jpeg&w=180&h=180&fit=cover&mask=circle&maxage=7d" width="150" />
 
-<img src="https://raw.githubusercontent.com/abdullahshah4650-debug/abdullahshah4650-debug/main/My_Profile.jpeg" width="160" style="border-radius:50%;" />
+### Hi, I'm Syed Abdullah Shah <img src="https://raw.githubusercontent.com/rajput2107/rajput2107/master/wave.gif" width="26" />
 
-# Syed Abdullah Shah
+**Frontend Developer • Laravel Learner • Future Full Stack Engineer**
 
 <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=1E3A8A&center=true&vCenter=true&width=700&lines=Frontend+Developer;Laravel+Learner;React+Developer;Building+Modern+Web+Applications;Open+Source+Enthusiast" />
-
-### Frontend Developer • Laravel Learner • Future Full Stack Engineer
 
 <p>
 Building modern, responsive and scalable web applications with clean code and exceptional user experience.
@@ -65,7 +64,7 @@ const developer = {
 # 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=abdullahshah4650-debug&show_icons=true&hide_border=true&title_color=1E3A8A&icon_color=2563EB&text_color=333333&bg_color=ffffff"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=abdullahshah4650-debug&show_icons=true&hide_border=true&title_color=1E3A8A&icon_color=2563EB&text_color=333333&bg_color=ffffff&rank_icon=github"/>
   <img height="165" src="https://streak-stats.demolab.com?user=abdullahshah4650-debug&hide_border=true&background=FFFFFF&ring=2563EB&fire=1E3A8A&currStreakLabel=1E3A8A"/>
 </p>
 
@@ -73,12 +72,6 @@ const developer = {
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=abdullahshah4650-debug&bg_color=ffffff&color=1E3A8A&line=2563EB&point=1E3A8A&hide_border=true&area=true"/>
-</p>
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=abdullahshah4650-debug&theme=flat&no-frame=true&no-bg=true&margin-w=10" />
 </p>
 
 ---
@@ -130,8 +123,8 @@ const developer = {
 
 <div align="center">
 
-> **"Great software is crafted one thoughtful commit at a time."**
+> **"Great software is crafted one  thoughtful commit at a time."**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1E3A8A,100:60A5FA&height=150&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,100:1E3A8A&height=150&section=footer"/>
 
 </div>
